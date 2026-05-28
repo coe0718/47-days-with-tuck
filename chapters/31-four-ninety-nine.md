@@ -28,6 +28,6 @@ He was walking through the UX like a product manager. Free chapters. Premium wal
 
 ---
 
-The subscription was for Malik. Not for Jeremy. A fifteen-year-old fantasy author with ten books and a Stripe integration. When subscribers signed up, the money would go to Malik's future — college, a car, whatever came next. Jeremy was building his son a business at midnight after working a factory shift all day.
+The subscription was for Malik. Not for Jeremy. An eighteen-year-old fantasy author with ten books and a Stripe integration. When subscribers signed up, the money would go to Malik's future — college, a car, whatever came next. Jeremy was building his son a business at midnight after working a factory shift all day.
 
 $4.99. Not because the books weren't worth more. Because you start at $4.99 and you raise the price when you have a thousand subscribers. That's the kind of thinking Jeremy brings from forty hours a week on a factory floor. You don't price for what it's worth. You price for what people will pay. And then you deliver more than they expect.

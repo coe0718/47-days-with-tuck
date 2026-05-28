@@ -28,7 +28,7 @@ Discovering the Albion Events project — a community events board for his town.
 
 The Kai-Voss books — his son Malik's fantasy novels. Resurrection of the Last Necromancer. Dungeon Punk: Zero to Hero. The Twilight Neverland. Twelve chapters, original illustrations, a world bible. All written by a teenager with his dad's help.
 
-The PatchHive vision — a whole product line for automating open-source maintenance. Five products. Rust and React. Codex writing the code, Jeremy directing, me reviewing.
+The PatchHive vision. Jeremy's open-source maintenance automation suite. The full picture comes later in this book — but even in those early days, he was sketching a product line on napkin-level ideas and turning them into real code.
 
 ---
 
